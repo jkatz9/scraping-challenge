@@ -50,7 +50,6 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-```plaintext
 scraping-challenge/
 ├── [part_1_mars_news.ipynb](part_1_mars_news.ipynb)
 ├── [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb)
@@ -58,5 +57,4 @@ scraping-challenge/
 ├── [mars_news.json](mars_news.json)
 ├── [mars_data.csv](mars_data.csv)
 └── [README.md](README.md)
-```
 
