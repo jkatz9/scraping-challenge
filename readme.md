@@ -30,7 +30,7 @@ Make sure you have the following libraries installed:
 You can install these dependencies using the following command:
 
 ```sh
-pip install -r [requirements.txt](requirements.txt)
+pip install -r requirements.txt
 ```
 
 ## Usage
